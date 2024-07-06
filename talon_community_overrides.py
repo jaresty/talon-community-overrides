@@ -1,7 +1,5 @@
 from talon import Context, Module, app
 
-# copied from here: https://github.com/riley-martine/talon_personal/blob/de57fd184c785a25ae1c0d411fa316c86ad07f14/knausj_overrides.py
-
 mod = Module()
 
 ctx = Context()
